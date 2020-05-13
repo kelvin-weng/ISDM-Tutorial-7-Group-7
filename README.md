@@ -50,6 +50,23 @@ Assumptions:
 * RM's wont be able to see their own profiles to keep morale up
 * The new system wont slow down the call operations as customers with customer profiles will be prioritised over customers without one
 
+**Product Backlog**
+| ID  | User Story  |  Estimation (1-10) | Priority (High, Medium, Low) |
+|---|---|---|---|
+|  US1 |  As a customer, I want to purchase a travel package so I can visit holiday destinations | 5  | Medium  |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+|   |   |   |   |
+
 ## Agile Methodology
 
 ### SCRUM
