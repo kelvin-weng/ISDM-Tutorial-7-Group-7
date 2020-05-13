@@ -34,6 +34,7 @@ The problem is that the current system makes it difficult for Relationship Manag
 3. "I am a Travel Company trying to improve the in-house call management centre, but it is too difficult for our employees to help customers purchase a travel package due to long wait times and misunderstanding the customer's intentions. This makes me feel anxious and aggravated."
 
 **Reflection**
+
 Due to the curent situation surrounding the virus, there various issues surrounding the case study during Design Thinking. We came together as a group and had a group discussion to discuss the surrounding issues and how we would overcome them. 
 
 We decided to use the customer, relation manager and travel company for our emapthy maps as they were the major stakeholders surrounding the case study.
