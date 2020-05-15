@@ -23,11 +23,11 @@ The problem is that the current system makes it difficult for Relationship Manag
 ## Design Thinking Principles Perspective
 **Empathy Maps**
 * Customer
-
+<img src="EmpathyMaps/CustomerEmpathyMap.png" width = "45%">
 * Relation Manager
-
+<img src="EmpathyMaps/RelationshipManagerEmpathyMap.png" width = "45%">
 * Travel Company
-
+<img src="EmpathyMaps/TravelCompanyEmpathyMap.png" width = "45%">
 **Three POV Statements**
 1. "I am a Customer trying to purchase a travel package, but i'm frustrated with the service i am receiving from the Travel Company as the wait times are long and they dont understand my intentions well. This makes me feel irritated and impatient" 
 2. "I am a Relation Manager trying to better serve my customers. Whenever i get connected, their initial attitude is always negative due to long wait times. I sometimes forget what the optimal travel package for them is, since i have to deal with so many different customers. This makes me frustrated."
