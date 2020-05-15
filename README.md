@@ -56,7 +56,7 @@ Assumptions:
 
 **Product Backlog**
 | ID  | User Story  |  Priority (High, Medium, Low) |
-|---|---|---|---|
+|---|---|---|
 |  US1 |  As a customer, I want to dial a number so that I can talk to someone on the phone |    Medium  |
 | US2  | As a customer, I want to be able to talk to someone on the phone, so that I can talk and buy holiday packages  |   High  |
 | US3  | As a customer, I want to purchase a travel package so that I can visit holiday destinations  |    Low  |
