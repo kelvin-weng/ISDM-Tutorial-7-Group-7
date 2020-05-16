@@ -1,9 +1,5 @@
 # Call Management Center - ISDM Report
-**Problem Definition**
 
-**Design Thinking**
-
-**Competitive Advantages & Possible effects of project failure**
 
 ## Project Objectives
 The goal of this project is to improve the in-house call management centre of a major travel company.
@@ -13,19 +9,20 @@ The problem is that the current system makes it difficult for Relationship Manag
 
 
 ## Stakeholders
-1. Customer
-2. Relationship Manager
-3. Travel Company
-4. Call management centre
-5. Competing travel company's
-6. Call centre manager
+1. Outbound called customers
+2. Inbound calling customers
+3. Relationship Manager
+4. Travel Company
+5. Call management centre
+6. Competing travel company's
+7. Call centre manager
 
 
 ## Design Thinking Principles Perspective
 **Empathy Maps**
 * Customer
 <img src="EmpathyMaps/CustomerEmpathyMap.png" width = "100%">
-
+Note: rework empathy map and pov statement to the 2 customers
 
 * Relationship Manager
 <img src="EmpathyMaps/RelationshipManagerEmpathyMap.png" width = "100%">
@@ -42,9 +39,9 @@ The problem is that the current system makes it difficult for Relationship Manag
 
 **Reflection**
 
-Due to the current situation surrounding the virus, there are various issues surrounding the case study during Design Thinking. We came together as a group and had a group discussion to discuss the surrounding issues and how we would overcome them.
+Due to the current situation surrounding the virus, there are various issues surrounding the case study during Design Thinking. We had a group discussion surrounding the issues and how we would overcome them. This includes reduced face-to-face communication, unable to interview real actors and gain data... We overcame this through the internet and utilising different social networking software, assumptions on the case study and using design thinking methodology to understand the stakeholders...
 
-We decided to use the customer, relation manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study.
+We originally decided to use the customer, relation manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. However, with further consultation with the tutor, we split the customer into two and utilised inbound called customer, outbound calling customers and the relationship manager for our empathy maps as they posed more in-depth discussion and analysis.
 
 With the POV statements, it was found that every stakeholder involved is affected by the current operation of the call management centre. It was more difficult for employees to do their job and drove customers away to competing company's primarily due to the long wait times and misunderstanding between RM and customer.
 
@@ -90,3 +87,5 @@ In agile methodology, various parts of the system are worked on concurrently, as
 ## Work-products and Models
 
 ## Competitive Advantage
+
+**Possible effects of project failure**
