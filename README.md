@@ -5,8 +5,11 @@
 The goal of this project is to improve the in-house call management centre of a major travel company.
 
 ## Problem Definition
-The problem is that the current system makes it difficult for Relationship Managers to efficiently and effectively help customers purchase a travel package. This is due to long wait times for customers and RM's not understanding the customers intentions quickly enough, making the whole process slow and cumbersome.**Elaborate**
+We want our relationship managers to efficiently and effectively help customers purchase a travel package through our in-house call management centre.
 
+However, the current operational system makes it difficult for relationship managers to sell due to long wait times, and RM's not understanding the customers intentions fast enough. If we ignore this problem, we could potentially lose customers to competing companies, lose revenue and damage our overall quality and company reputation.
+
+To fix this issue, we will adopt a design thinking and scrum methodology to truly understand out customers and iteratively improve our operational system.
 
 ## Stakeholders
 1. Outbound called customers
@@ -20,9 +23,10 @@ The problem is that the current system makes it difficult for Relationship Manag
 
 ## Design Thinking Principles Perspective
 **Empathy Maps**
-* Customer
+* Inbound calling customer
 <img src="EmpathyMaps/CustomerEmpathyMap.png" width = "100%">
-Note: rework empathy map and pov statement to the 2 customers
+
+* Outbound called customers
 
 * Relationship Manager
 <img src="EmpathyMaps/RelationshipManagerEmpathyMap.png" width = "100%">
@@ -39,9 +43,13 @@ Note: rework empathy map and pov statement to the 2 customers
 
 **Reflection**
 
-Due to the current situation surrounding the virus, there are various issues surrounding the case study during Design Thinking. We had a group discussion surrounding the issues and how we would overcome them. This includes reduced face-to-face communication, unable to interview real actors and gain data... We overcame this through the internet and utilising different social networking software, assumptions on the case study and using design thinking methodology to understand the stakeholders...
+Due to the current situation surrounding the virus, there are various issues surrounding the case study during Design Thinking. We had a group discussion surrounding the issues and how we would overcome them. This includes reduced face-to-face communication, unable to interview real actors, and gain real-world data. We overcame this through the internet and utilising different social networking software, and assumptions on the case study and using design thinking methodology to understand the major stakeholders of the case. This allowed to successfully progress through the project, despite the external factors.
 
-We originally decided to use the customer, relation manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. However, with further consultation with the tutor, we split the customer into two and utilised inbound called customer, outbound calling customers and the relationship manager for our empathy maps as they posed more in-depth discussion and analysis.
+After this we started assigning different roles to each group member to ensure that we complete this project within the alloted time frame. We broke down the roles based on every group members strengths and weaknesses. 
+
+Our Design Thinking methodology started with a brainstorm of different stakeholders relating to the case study. We originally decided to use the customer, relation manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. However, with further consultation with the tutor, we split the customer into two and utilised inbound called customer, outbound calling customers and the relationship manager for our empathy maps as they posed more in-depth discussion and analysis.
+
+Next, we created our empathy maps for our major stakeholders on Lucidchart. Using Lucidchart was difficult at first as we needed a premium membership to fully utilise all of its features. We overcame this by connecting our accounts to our school email allowing us access to the premium membership. 
 
 With the POV statements, it was found that every stakeholder involved is affected by the current operation of the call management centre. It was more difficult for employees to do their job and drove customers away to competing company's primarily due to the long wait times and misunderstanding between RM and customer.
 
