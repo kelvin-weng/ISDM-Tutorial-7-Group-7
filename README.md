@@ -6,16 +6,16 @@
 3. Problem Definition
 4. Stakeholders
 5. Design Thinking Principles Perspective
-  * Empathy maps
-  * POV Statements
-  * Reflection
-  * Product Backlog
+    * Empathy maps
+    * POV Statements
+    * Reflection
+    * Assumptions
 6. Agile Methodology
-7. Scrum
-8. Assumptions
-9. Work-Products and Models
-10. Competitive Advantage
-  * Possible effects of project failure
+    * Scrum
+    * Product backlog
+7. Work-Products and Models
+8. Competitive Advantage
+    * Possible effects of project failure
 
 ## Executive Summary
 This report examines the problems surrounding the operations of a call management centre and recommend methods of increasing its efficiency and effectiveness.
@@ -35,8 +35,8 @@ However, the current operational system makes it difficult for relationship mana
 To fix this issue, we will adopt a design thinking and scrum methodology to truly understand out customers and iteratively improve our operational system.
 
 ## Stakeholders
-1. Outbound called customers
-2. Inbound calling customers
+1. Inbound calling customers
+2. Outbound called customers
 3. Relationship Manager
 4. Travel Company
 5. Call management centre
@@ -79,37 +79,14 @@ With the POV statements, it was found that every stakeholder involved is affecte
 
 After creating the POV statements, there are various external factors that halted the steady progress of the project from all the group members. This involved external assessments from other subjects which took up time and productivity from the progression of the project. We overcame this by identifying the issue and decided as a group to dedicate some time each week to this project to ensure its progression towards the due date.
 
+With the creation of the POV statements, we started work on the How Might We questions relating to the project. The POV statements helped shape the scope of our questions. This is relayed below:
+1. How might we improve the relationship between the customer and RM?
+2. How might we improve the customer's experience while they're calling?
+3. How might we speed up the call rate for RM's?
+4. How might we increase the RM's performance and product knowledge?
+5. How might we recommend better purchase options for our customers?
 
-
-**Product Backlog**
-
-| ID  | User Story  |  Priority (High, Medium, Low) |
-|---|---|---|
-|  US1 |  As a customer, I want to dial a number so that I can talk to someone on the phone |    Medium  |
-| US2  | As a customer, I want to be able to talk to someone on the phone, so that I can talk and buy holiday packages  |   High  |
-| US3  | As a customer, I want to purchase a travel package so that I can visit holiday destinations  |    Low  |
-| US4  | As a relationship manager, I want customers to get their calls answered so that I can sell them holiday packages  |    High  |
-| US5  | As a relationship manager, I want to use a tool to create a customer profile, so that I can understand the demographic and details of the customer  |    Medium  |
-| US6  | As a relationship manager, I want to view the details of a customer, so that I can understand who I am talking with  |    Medium  |
-| US7  | As a relationship manager, I want to be given a script, so that I can provide an improved service to the customer  |    Medium  |
-| US8  | As a travel company, I want to develop a system so that I can improve the call management centre  |   High  |
-| US9  | As a travel company, I want to improve the call flow rate, so that I can make more sales  |    High  |
-| US10  | As a travel company, I want to be able to create profiles based on my relationship managers so that I can match my relationship managers with customers  |    Medium  |
-| US11  | As a travel company, I want to be able score a call from 1-10 so that we can find which customers are most likely to buy from us.  |    Medium  |
-| US12  | As a travel company, I want to ensure customers with a high score are prioritised, so that they can buy holiday packages from us  |    Medium  |
-| US13  | As a travel company, I want customers to be directed to an interactive voice response unit so that it can answer any questions if a relationship manager is not available  |    Low  |
-
-
-## Agile Methodology
-An appropriate system development methodology will need to be utilised in order to plan, structure and control the development of the new information system.
-
-In agile methodology, various parts of the system are worked on concurrently, as opposed to the sequential order of activities in traditional waterfall methodology. Projects are developed in iterations and stages, with constant testing, review and feedback with stakeholders, providing continuous improvement with each iteration. Less emphasis is held on documentation, and instead there is a focus on communication, collaboration and adaptation. This efficiency and flexibility of agile development enables any changes, including requirements, to be implemented at any stage of development.
-
-
-### SCRUM
-
-
-## Assumptions
+**Assumptions**
 
 * RM's are frustrated with the long wait times like the customers
 * RM's don't understand their customers well as they calls are being sent to RM's randomly
@@ -120,7 +97,56 @@ In agile methodology, various parts of the system are worked on concurrently, as
 * Outbound called customers are not current customers for the Travel Company
 * The company is losing revenue and market share due to competitors, which is why they want to develop a new information system
 
+
+## Agile Methodology
+An appropriate system development methodology will need to be utilised in order to plan, structure and control the development of the new information system.
+
+In agile methodology, various parts of the system are worked on concurrently, as opposed to the sequential order of activities in traditional waterfall methodology. Projects are developed in iterations and stages, with constant testing, review and feedback with stakeholders, providing continuous improvement with each iteration. Less emphasis is held on documentation, and instead there is a focus on communication, collaboration and adaptation. This efficiency and flexibility of agile development enables any changes, including requirements, to be implemented at any stage of development.
+
+
+### SCRUM
+A Scrum is an agile process that allows us to focus on delivering business value in shortest times. We utilised a Scrum process due to its ability to efficiently complete a project by working collaboratively as a group. This is demonstrated through the Scrum team model which is self-organising and cross-functional. We split ourselves as a group into teams to work on the models involving planning, designing, testing and documentation. 
+
+The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didnt have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project. This involved utilising the Sprint backlog as a basis to start the Scrum and ensuring that we assign tasks to specific members of the group and progression on the project. After that we would hold a weekly Scrum meeting every Friday to determine the outcome of our tasks and allow us to incrementally complete the project within the given deadline.
+
+We employed a variety of scrum artefacts including the product backlog, user stories and a sprint backlog. The product backlog is represented below which showcases an ordered list that needs to be completed in the project. It consists of user stories and their priorities. The Sprint backlog showcases our timeline of progression for the project and the various issues we encountered. It represents a plan for delivering the product increments and consists of work flow stages and individual work items. Our one is showcased through a Kanban board located on Github.
+
+
+**Product Backlog**
+
+| ID  | User Story  |  Priority (High, Medium, Low) |
+|---|---|---|
+|  US1 |  As an inbound calling customer, I want to dial a number without waiting too long, so that I can purchase a travel package |    Medium  |
+| US2  | As an inbound calling customer, I want to be able to talk to someone on the phone that knows my intentions well, so that I can buy holiday packages  |   High  |
+| US3  | As an inbound calling customer, I want to purchase a travel package so that I can visit holiday destinations  |    Low  |
+| US4  | As an outbound called customer, I want to talk to an RM that get straight to the point, so that it doesnt waste my time  |    Medium  |
+| US5  | As an outbound called customer, I want to purchase a travel package that suits my needs, so that i can save time  |    Low  |
+| US6  | As a relationship manager, I want customers to get their calls answered so that I can sell them holiday packages  |    High  |
+| US7  | As a relationship manager, I want to use a tool to create a customer profile, so that I can understand the demographic and details of the customer  |    Medium  |
+| US8  | As a relationship manager, I want to view the details of a customer, so that I can understand who I am talking with  |    Medium  |
+| US9  | As a relationship manager, I want to be given a script, so that I can provide an improved service to the customer  |    Medium  |
+| US10  | As a travel company, I want to develop a system so that I can improve the call management centre  |   High  |
+| US11  | As a travel company, I want to improve the call flow rate, so that I can make more sales  |    High  |
+| US12  | As a travel company, I want to be able to create profiles based on my relationship managers so that I can match my relationship managers with customers  |    Medium  |
+| US13  | As a travel company, I want to be able score a call from 1-10 so that we can find which customers are most likely to buy from us.  |    Medium  |
+| US14  | As a travel company, I want to ensure customers with a high score are prioritised, so that they can buy holiday packages from us  |    Medium  |
+| US15  | As a travel company, I want customers to be directed to an interactive voice response unit so that it can answer any questions if a relationship manager is not available  |    Low  |
+
+
 ## Work-products and Models
+**User Stories**
+1. As an inbound calling customer, I want to be able to talk to someone on the phone that knows my intentions well, so that I can buy holiday packages
+2. As an outbound called customer, I want to talk to an RM that get straight to the point, so that it doesnt waste my time
+3. As a relationship manager, I want to view the details of a customer, so that I can understand who I am talking with
+4. As a travel company, I want to develop a system so that I can improve the call management centre
+
+**Use Case Model**
+
+**Activity Diagram**
+
+**Class Diagram**
+
+**Collaboration Diagram**
 
 ## Competitive Advantage
 
