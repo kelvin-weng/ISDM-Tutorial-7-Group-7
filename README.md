@@ -1,5 +1,28 @@
 # Call Management Center - ISDM Report
 
+## Table of Contents
+1. Executive Summary
+2. Project Objectives
+3. Problem Definition
+4. Stakeholders
+5. Design Thinking Principles Perspective
+  * Empathy maps
+  * POV Statements
+  * Reflection
+  * Product Backlog
+6. Agile Methodology
+7. Scrum
+8. Assumptions
+9. Work-Products and Models
+10. Competitive Advantage
+  * Possible effects of project failure
+
+## Executive Summary
+This report examines the problems surrounding the operations of a call management centre and recommend methods of increasing its efficiency and effectiveness.
+
+The research showcases that the current system operation is complicated due to the number and nature of the holiday packages. Furthermore, wait times for customers are too long, making the relationship between them and the employee tarnished before the call begins. After the customer connects with a Relationship Manager, they dont have enough information about the customer, making the process and call rate slow and inefficient. These factors are the major causes to why the current system operation has problems.
+
+The travel company is aiming to circumvent these issues by developing a new information system that improves the overall operations of the call management system. The report concludes that it would be ideal to satisfy its existing customer base while also attracting new potential customers due to the efficient and effective new information system.
 
 ## Project Objectives
 The goal of this project is to improve the in-house call management centre of a major travel company.
@@ -36,7 +59,7 @@ To fix this issue, we will adopt a design thinking and scrum methodology to trul
 <img src="EmpathyMaps/TravelCompanyEmpathyMap.png" width = "100%">
 
 
-**Three POV Statements**
+**POV Statements**
 1. "I am an inbound calling customer trying to purchase a travel package, but I'm frustrated with the service I am receiving from the Travel Company as the wait times are long and they don't understand my intentions well. This makes me feel irritated and impatient."
 2. "I am an outbound called customer trying to enjoy my day, but it is annoying to receive calls from a company asking to purchase their products as i need to do research, sort my schedule and need more time before i can make a purchasing decision. This makes me feel displeased and frustrated."
 3. "I am a Relation Manager trying to better serve my customers. Whenever I get connected, their initial attitude is always negative due to long wait times. I sometimes forget what the optimal travel package for them is, since I have to deal with so many different customers. This makes me frustrated."
@@ -56,15 +79,7 @@ With the POV statements, it was found that every stakeholder involved is affecte
 
 After creating the POV statements, there are various external factors that halted the steady progress of the project from all the group members. This involved external assessments from other subjects which took up time and productivity from the progression of the project. We overcame this by identifying the issue and decided as a group to dedicate some time each week to this project to ensure its progression towards the due date.
 
-Below are the assumptions we made about the case study to continue with the project.
-Assumptions:
-* RM's are frustrated with the long wait times like the customers
-* RM's don't understand their customers well as they calls are being sent to RM's randomly
-* The travel company doesn't have an online website for customers to find holiday and travel packages
-* Customers create their customer profile by utilisng the Profiler Tool
-* RM's wont be able to see their own profiles to keep morale up
-* The new system wont slow down the call operations as customers with customer profiles will be prioritised over customers without one
-* Outbound called customers are not current customers for the Travel Company
+
 
 **Product Backlog**
 
@@ -95,6 +110,15 @@ In agile methodology, various parts of the system are worked on concurrently, as
 
 
 ## Assumptions
+
+* RM's are frustrated with the long wait times like the customers
+* RM's don't understand their customers well as they calls are being sent to RM's randomly
+* The travel company doesn't have an online website for customers to find holiday and travel packages
+* Customers create their customer profile by utilisng the Profiler Tool
+* RM's wont be able to see their own profiles to keep morale up
+* The new system wont slow down the call operations as customers with customer profiles will be prioritised over customers without one
+* Outbound called customers are not current customers for the Travel Company
+* The company is losing revenue and market share due to competitors, which is why they want to develop a new information system
 
 ## Work-products and Models
 
