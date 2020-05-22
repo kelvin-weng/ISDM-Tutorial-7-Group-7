@@ -138,11 +138,16 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 
 | ID  | Task  |  Priority (High, Medium, Low) |
 |---|---|---|
-| T01  |  Create Empathy Maps and POV statements  | Medium |
-| T02  |  Create Backlog  | High |
-| T03  |  Create model diagrams  | Medium |
-| T04  |  Complete documentation | Low |
-| T05  |  Upload final document | Low  |
+| T1  |  Create Empathy Maps and POV statements  | Medium |
+| T2  |  Create Backlog  | High |
+| T3  |  Create model diagrams  | Medium |
+| T3.1  |  Subtask - Create use case diagrams  | Medium |
+| T3.2  |  Subtask - Create activity diagrams  | Medium |
+| T3.3  |  Subtask - Create class diagrams  | Medium |
+| T3.4  |  Subtask - Create collaboration diagrams  | Medium |
+| T4    | Competitive advantages and potential effects | Medium |
+| T5  |  Edit and finalise documentation  | Low |
+| T6  |  Upload final document | Low  |
 
 
 ## Work-products and Models
