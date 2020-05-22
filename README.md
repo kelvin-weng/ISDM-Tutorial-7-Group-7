@@ -120,7 +120,7 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 | US2  | As an inbound calling customer, I want to be able to talk to someone on the phone that knows my intentions well, so that I can buy holiday packages  |   High  |
 | US3  | As an inbound calling customer, I want to purchase a travel package so that I can visit holiday destinations  |    Low  |
 | US4  | As an outbound called customer, I want to talk to an RM that get straight to the point, so that it doesnt waste my time  |    Medium  |
-| US5  | As an outbound called customer, I want to purchase a travel package that suits my needs, so that i can save time  |    Low  |
+| US5  | As an outbound called customer, I want to purchase a travel package that suits my needs, so that I can save time  |    Low  |
 | US6  | As a relationship manager, I want customers to get their calls answered so that I can sell them holiday packages  |    High  |
 | US7  | As a relationship manager, I want to use a tool to create a customer profile, so that I can understand the demographic and details of the customer  |    Medium  |
 | US8  | As a relationship manager, I want to view the details of a customer, so that I can understand who I am talking with  |    Medium  |
@@ -130,7 +130,19 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 | US12  | As a travel company, I want to be able to create profiles based on my relationship managers so that I can match my relationship managers with customers  |    Medium  |
 | US13  | As a travel company, I want to be able score a call from 1-10 so that we can find which customers are most likely to buy from us.  |    Medium  |
 | US14  | As a travel company, I want to ensure customers with a high score are prioritised, so that they can buy holiday packages from us  |    Medium  |
-| US15  | As a travel company, I want customers to be directed to an interactive voice response unit so that it can answer any questions if a relationship manager is not available  |    Low  |
+| US15  | As a travel company, I want customers to be directed to an interactive voice response unit so that it can answer any questions if a relationship manager is not available  | Low  |
+| US16  | As a call management centre, I want the system to use AI machine learning, so that it can automatically assign customers to a suitable relationship manager  | Low  |
+| US17  | As a call management centre, I want to ensure the system is running smoothly, so that customers and relationship managers are not impacted in their calls | Medium  |
+| US18  | As a competing travel company, I want to take away as many customers from my main rivals, so that I can make more sales and revenue | Low  |
+| US19  | As a call centre manager, I want the call rates to be improved for Relationships Managers, so that they are able to interact with the customers more often | Low  |
+
+| ID  | Task  |  Priority (High, Medium, Low) |
+|---|---|---|
+| T01  |  Create Empathy Maps and POV statements  | Medium |
+| T02  |  Create Backlog  | High |
+| T03  |  Create model diagrams  | Medium |
+| T04  |  Complete documentation | Low |
+| T05  |  Upload final document | Low  |
 
 
 ## Work-products and Models
