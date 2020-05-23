@@ -86,6 +86,8 @@ With the creation of the POV statements, we started work on the How Might We que
 4. How might we increase the RM's performance and product knowledge?
 5. How might we recommend better purchase options for our customers?
 
+This formed the basis of our design thinking methodology for the project. Following all these steps allowed us to get a better understanding of the final project and empathise with whom we are designing the project for. After the design thinking stage, we arranged another group meeting to discuss our thoughts and move on to the next stage which was the agile methodology. In this stage, we utilised a Scrum agile method to progress through the various diagrams and models.
+
 **Assumptions**
 
 * RM's are frustrated with the long wait times like the customers
@@ -148,6 +150,9 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 | T4    | Competitive advantages and potential effects | Medium |
 | T5  |  Edit and finalise documentation  | Low |
 | T6  |  Upload final document | Low  |
+| T7  |  Start the video presentation | Medium  |
+| T8  |  Assign roles and begin recording | Low  |
+| T9  |  Upload the final video presentation | High  |
 
 
 ## Work-products and Models
@@ -158,6 +163,9 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 4. As a travel company, I want to develop a system so that I can improve the call management centre
 
 **Use Case Model**
+The use case model was started by utilising the user stories. Similar to the Empathy maps, we will be using Lucidchart to collaborate online and complete the use case model. Initially, we experienced issues as we were confused on how to create the the use case models since there are many versions that can be created. We decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. 
+
+After some discussions with the tutor, we decided to use his feedback and create one whole use case diagram containing both the current and proposed system. However, we will distinguish them by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system as a single glance will clearly showcase the imporvements that the proposed system will make.
 
 **Activity Diagram**
 
