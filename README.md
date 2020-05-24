@@ -163,11 +163,24 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 4. As a travel company, I want to develop a system so that I can improve the call management centre
 
 **Use Case Model**
+
 The use case model was started by utilising the user stories. Similar to the Empathy maps, we will be using Lucidchart to collaborate online and complete the use case model. Initially, we experienced issues as we were confused on how to create the the use case models since there are many versions that can be created. We decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. 
+
+* Current System
+<img src="EmpathyMaps/CurrentSystemUseCase.png" width = "100%">
+
+* Propose System
+<img src="EmpathyMaps/ProposedSystemUseCase.png" width = "100%">
 
 After some discussions with the tutor, we decided to use his feedback and create one whole use case diagram containing both the current and proposed system. However, we will distinguish them by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system as a single glance will clearly showcase the imporvements that the proposed system will make.
 
 **Activity Diagram**
+
+We experienced some trouble with the Activity diagram as we werent sure how specific or brief we needed to be. Furthermore, we werent sure whether to model the current system or the proposed system However we opted to make the activity diagrams succinct and easy to read without compromisng the amount of information. We created two separate activity diagrams that detail the series of events that inbound calling customers and outbound called customers will go through on the proposed system. 
+
+<img src="EmpathyMaps/ActivityDiagram.png" width = "100%">
+
+However after creating the diagrams, we planned a group discussion later in the week where further edits will be made to the activity diagram to help finalise it.
 
 **Class Diagram**
 
