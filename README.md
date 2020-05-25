@@ -140,7 +140,7 @@ This is represented as we assigned different roles to each group member to help 
 ### SCRUM
 A Scrum is an agile process that allows us to focus on delivering business value in shortest times. We utilised a Scrum process due to its efficiency in completing a project by working collaboratively as a group. This is demonstrated through the Scrum team model which is self-organising and cross-functional. We split ourselves as a group into teams to work on the models involving planning, designing, testing and documentation.
 
-The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didnt have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project. This involved utilising the Sprint backlog as a basis to start the Scrum and ensuring that we assign tasks to specific members of the group and progression on the project. After that we would hold a weekly Scrum meeting every Friday to determine the outcome of our tasks and allow us to incrementally complete the project within the given deadline.
+The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didn't have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project. This involved utilising the Sprint backlog as a basis to start the Scrum and ensuring that we assign tasks to specific members of the group and progression on the project. After that we would hold a weekly Scrum meeting every Friday to determine the outcome of our tasks and allow us to incrementally complete the project within the given deadline.
 
 We employed a variety of scrum artefacts including the product backlog, user stories and a sprint backlog. The product backlog is represented below which showcases an ordered list that needs to be completed in the project. It consists of user stories and their priorities. The Sprint backlog showcases our timeline of progression for the project and the various issues we encountered. It represents a plan for delivering the product increments and consists of work flow stages and individual work items. A Kanban board was utilised for this project which can be located on GitHub.
 
@@ -229,6 +229,15 @@ A class diagram showcases the system's classes, attributes, operations and relat
 
 A collaboration diagram is used to showcase the relationships and interactions between objects in Unified Modelling Language (UML). It defines the role of each object.
 
-## Competitive Advantage
+## Project Advantages & Failures
+**Competitive Advantage Gained**
 
-**Possible effects of project failure**
+The new system will provide substantial efficiency improvements in handling both incoming and outgoing calls. Dynamic and intelligent matching of customers to an appropriate Relationship Manager (RM) based on their respective profiles ensures the RM has the right skills and knowledge to resolve customer enquiries within a timely manner. Successful matching will also prevent the need for the customer to be transferred around to various RMs, saving both time and resources.
+
+In addition, customer profile information allow RMs to provide more personalised, meaningful and accurate support through greater insights and deeper understanding regarding the needs and requirements of each customer.
+
+These two competitive advantages combined result in increased customer satisfaction and employee wellbeing. Providing customer satisfaction achieves competitive advantage over competitors through obtaining customer loyalty, and the attraction of new customers through word of mouth.
+
+Finally, the new system is able to provide insights from collated profiles, interactions and data to form trends and patterns that will better enable the travel company to address customer needs, and align their business to cater for their requirements. For example, trends may reveal that a number of customers are enquiring about a particular travel destination that is not currently offered. Hence, the travel company has potential to gain competitive advantage by looking into offering the highly demanded destination.
+
+**Possible Adverse Effects of Project Failure**
