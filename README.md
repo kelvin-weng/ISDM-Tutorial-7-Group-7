@@ -227,6 +227,8 @@ A class diagram showcases the system's classes, attributes, operations and relat
 
 <img src="Diagrams/InboundClassDiagram.png" width = "100%">
 
+<img src="Diagrams/OutboundClassDiagram.png" width = "100%">
+
 **Collaboration Diagram**
 
 A collaboration diagram is used to showcase the relationships and interactions between objects in Unified Modelling Language (UML). It defines the role of each object.
