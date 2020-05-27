@@ -197,7 +197,7 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 
 The use case model was created by utilising the user stories. Similar to the Empathy maps, we will be using Lucidchart to collaborate online and complete the use case model. This use case model showcases a simple representation of the user's interaction and relationship with the system. As emphasised through the model, it visually showcases how effective the proposed system is compared to the current system as there are less prompts for the actor to interact with. Everything is done in the background, which increases their mood.
 
-Initially, we experienced issues as we were confused on how to create the use case models since there are many versions that can be created. We decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed.
+Initially, we experienced issues as we were confused on how to create the use case models since there are many versions that can be created. We decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. We started by listing the title, actors and their associated use cases. This was the prototype model that we created. We would continue to iterate on this base diagram later by adding relationships.
 
 * Current System
 <img src="Diagrams/CurrentSystemUseCase.png" width = "100%">
@@ -205,7 +205,7 @@ Initially, we experienced issues as we were confused on how to create the use ca
 * Propose System
 <img src="Diagrams/ProposedSystemUseCase.png" width = "100%">
 
-After some discussions with the tutor, we decided to use his feedback and create one whole use case diagram containing both the current and proposed system. However, we will distinguish them by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system as a single glance will clearly showcase the improvements that the proposed system will make.
+After some discussions with the tutor, we decided to use his feedback and create one whole use case diagram containing both the current and proposed system. However, we will distinguish them by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system as a single glance will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combinign the 2 models and adding relationships that showcase the differences made from the proposed system.
 
 **Activity Diagram**
 
@@ -223,7 +223,7 @@ However after creating the diagrams, we planned a group discussion later in the 
 
 **Class Diagram**
 
-A class diagram showcases the system's classes, attributes, operations and relationships among objects.
+A class diagram showcases the system's classes, attributes, operations and relationships among objects. The listed class diagrams showcases the base system we wish to design. However, we experienced trouble as we were unsure whether we needed to be more specific with more classes and relationships. We decided to create a simple outline of the proposed system for the two major stakeholders being the inbound customer and outbound customer. It showcases the relationship that the customer and relationship manager will go through when interacting with the system. As represented in the diagrams, the proposed system has very little wait time and allows the customer to get what they want efficiently and effectively.
 
 <img src="Diagrams/InboundClassDiagram.png" width = "100%">
 
