@@ -1,4 +1,4 @@
-# Call Management Center - Proposed Report
+ # Call Management Center - Proposed Report
 
 ## Table of Contents
 1. Acknowledgements
@@ -206,7 +206,7 @@ Initially, we experienced issues as we were confused on how to create the use ca
 <img src="Diagrams/ProposedSystemUseCase.png" width = "100%">
 
 * Version 2 Inbound & Outbound
-<img src="Diagrams/UseCaseDiagramV2.png" width = "100%">
+<img src="Diagrams/UseCaseDiagram V2.png" width = "100%">
 
 After some discussions with the tutor, we decided to use his feedback and create one whole use case diagram containing both the current and proposed system. However, we will distinguish them by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system as a single glance will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combinign the 2 models and adding relationships that showcase the differences made from the proposed system.
 
