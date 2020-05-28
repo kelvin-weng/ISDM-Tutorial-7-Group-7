@@ -199,19 +199,23 @@ The use case model was created by utilising the user stories. Similar to the Emp
 
 Initially, we experienced issues as we were confused on how to create the use case models since there are many versions that can be created. We decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. We started by listing the title, actors and their associated use cases. This was the prototype model that we created. We would continue to iterate on this base diagram later by adding relationships.
 
-* Current System
+* Current System (Beginnning)
 <img src="Diagrams/CurrentSystemUseCase.png" width = "100%">
 
-* Propose System
+* Proposed System (Beginning)
 <img src="Diagrams/ProposedSystemUseCase.png" width = "100%">
 
-* Version 2 Inbound & Outbound
+* Version 2 Inbound & Outbound (Pre-Consultation)
 <img src="Diagrams/UseCaseDiagram V2.png" width = "100%">
 
-After some discussions with the tutor, we decided to use his feedback and create one whole use case diagram containing both the current and proposed system. However, we will distinguish them by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system as a single glance will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combinign the 2 models and adding relationships that showcase the differences made from the proposed system.
+After some discussions with the tutor, we decided to use his feedback and create one  use case diagram containing both the current and proposed system. It was mentioned that use cases could be distinguished by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system in a single glance & will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combinign the 2 models and adding relationships that showcase the differences made from the proposed system.
 
 * Use Case Diagram Final
-    (to be implemented)
+<img src="Diagrams/ProposedSystemUseCaseFinal.png" width = "100%">
+
+The end result was a singular more consise diagram which was coloured based on new and retaining use cases. New use cases were expressed in green whilst retaining use cases were displayed in blue. It was decided that unused use cases should not be shown in the diagram in order to minimised confusion. 
+
+Some insights that could be deduced from visualising the Use Case Diagram in this way was which stakeholders were impacted by the proposed changes. From the colour distribution we can conclude that Relationship Managers have more changes implemented while the customer journey is relatively untouched.
 
 **Activity Diagram**
 
