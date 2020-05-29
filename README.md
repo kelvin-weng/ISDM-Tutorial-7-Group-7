@@ -98,27 +98,21 @@ To fix this issue, we will adopt a design thinking and scrum methodology to trul
 
 We started the project by assigning different roles to each group members to ensure that we are able to complete the project within the allotted time frame. We broke down the roles based on every members strengths and weaknesses.
 
-However, with the current situation surrounding the virus, there are various issues surrounding the case study during Design Thinking. We had a group discussion on the issues we encountered and how we would overcome them. This includes reduced face-to-face communication, unable to interview real actors, and gaining real-world data. We overcame this by utilising the internet, different social network sites and making assumptions on the case study to understand the major stakeholders of the case and their situation. This allowed us to successfully progress through the project, despite the external factors.
+Despite the current situation surrounding the virus, we were able to progress with the project. We had a group discussion on the issues we would encounter and how we would overcome them for the project. This includes reduced face-to-face communication, unable to interview real actors, and gaining real-world data. We overcame this by utilising the internet, different social networking sites and making assumptions on the case study to understand the major stakeholders of the project and their situation.
 
-Our Design Thinking methodology started with a brainstorm of different stakeholders relating to the case study. We  decided to use the customer, relationship manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. However, with further consultation with the tutor, we split the customer into two and utilised inbound called customer, outbound calling customers, relationship manager and the travel company for our empathy maps as they posed more in-depth discussion and analysis.
+Our Design Thinking methodology started with a brainstorm of different stakeholders relating to the case study. We decided to use the customer, relationship manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. After further discussions with our tutor, we decided to split the customer into two, inbound called customer and outbound calling customers for our empathy maps as they posed more in-depth discussion and analysis.
 
-Next, we created our empathy maps for our major stakeholders on Lucidchart. Using Lucidchart was difficult at first as we needed a premium membership to fully utilise all of its features. We overcame this by connecting our accounts to our school email allowing us access to the premium membership. Lucidchart was helpful as we could all collaborate online in real-time which made it efficient and effective. Furthermore, it also has features that will help us create our diagrams and models later down the track.
+With the POV statements, it was found that every stakeholder involved is affected by the current operation of the Call Management Centre. Assumptions were developed that it was more difficult for employees to do their job and drove customers to competing companies primarily due to the long wait times and misunderstanding between RM and customer.
 
-With the POV statements, it was found that every stakeholder involved is affected by the current operation of the call management centre. It was more difficult for employees to do their job and drove customers away to competing company's primarily due to the long wait times and misunderstanding between RM and customer.
-
-After creating the POV statements, there are various external factors that halted the steady progress of the project from all the group members. This involved external assessments from other subjects which took up time and productivity from the progression of the project. We overcame this by identifying the issue and decided as a group to dedicate some time each week to this project to ensure its progression towards the due date.
-
-With the creation of the POV statements, we started work on the How Might We questions relating to the project. The POV statements helped shape the scope of our questions. This is relayed below:
+These POV statements allowed us to develop and shape the scope of "How Might We" questions relating to the project. This is relayed below:
 1. How might we improve the relationship between the customer and RM?
 2. How might we improve the customer's experience while they're calling?
 3. How might we speed up the call rate for RM's?
 4. How might we increase the RM's performance and product knowledge?
 5. How might we recommend better purchase options for our customers?
 
-This formed the basis of our design thinking methodology for the project. Following all these steps allowed us to get a better understanding of the stakeholders and empathise with whom we are designing the project for. After the design thinking stage, we arranged another group meeting to discuss our thoughts and move on to the next stage which was the agile methodology. In this stage, we utilised a Scrum agile method to progress through the various diagrams and models.
-
 **Assumptions**
-
+For this case study, we agreed on the following assumptions:
 * RM's are frustrated with the long wait times like the customers
 * RM's don't understand their customers well as they calls are being sent to RM's randomly
 * The travel company doesn't have an online website for customers to find holiday and travel packages
