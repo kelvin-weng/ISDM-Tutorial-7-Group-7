@@ -112,6 +112,7 @@ These POV statements allowed us to develop and shape the scope of "How Might We"
 5. How might we recommend better purchase options for our customers?
 
 **Assumptions**
+
 For this case study, we agreed on the following assumptions:
 * RM's are frustrated with the long wait times like the customers
 * RM's don't understand their customers well as they calls are being sent to RM's randomly
@@ -188,9 +189,9 @@ These are the user stories that we will focus on modelling:
 
 **Use Case Model**
 
-The use case model was created by utilising the user stories. Similar to the Empathy maps, we will be using Lucidchart to collaborate online and complete the use case model. This use case model showcases a simple representation of the user's interaction and relationship with the system. As emphasised through the model, it visually showcases how effective the proposed system is compared to the current system as there are less prompts for the actor to interact with. Everything is done in the background, which increases their mood.
+The use case model was created by utilising the user stories. This use case model showcases a simple representation of the user's interaction and relationship with the system. As emphasised through the model, it visually showcases how effective the proposed system is compared to the current system as there are less prompts for the actor to interact with. Everything is done in the background, which increases their mood.
 
-Initially, we experienced issues as we were confused on how to create the use case models since there are many versions that can be created. We decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. We started by listing the title, actors and their associated use cases. This was the prototype model that we created. We would continue to iterate on this base diagram later by adding relationships.
+Despite our initial confusion on creating use case models due to the many possibilities, we decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. We started by listing the title, actors and their associated use cases. This was the prototype model that we created. We would continue to iterate on this base diagram later by adding relationships.
 
 * Current System (Beginnning)
 <img src="Diagrams/CurrentSystemUseCase.png" width = "100%">
@@ -201,7 +202,7 @@ Initially, we experienced issues as we were confused on how to create the use ca
 * Version 2 Inbound & Outbound (Pre-Consultation)
 <img src="Diagrams/UseCaseDiagram V2.png" width = "100%">
 
-After some discussions with the tutor, we decided to use his feedback and create one  use case diagram containing both the current and proposed system. It was mentioned that use cases could be distinguished by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system in a single glance & will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combinign the 2 models and adding relationships that showcase the differences made from the proposed system.
+After some discussions with the tutor, we decided to use his feedback and create one  use case diagram containing both the current and proposed system. It was mentioned that use cases could be distinguished by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system in a single glance & will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combining the 2 models and adding relationships that showcase the differences made from the proposed system.
 
 * Use Case Diagram Final
 <img src="Diagrams/ProposedSystemUseCaseFinal.png" width = "100%">
@@ -214,11 +215,11 @@ Some insights that could be deduced from visualising the Use Case Diagram in thi
 
 An activity diagram is a visual representation of the workflow of steps and actions that occurs when the customer interacts with the system. It starts at the top and flows downwards, showcasing different steps and actions that are required by the customer or relationship manager. As showcased through the diagram, most of the steps are in the background, and doesn't involve the consumer. This makes things more efficient as the relationship manager already has all the information available to them, and maximises their chance of selling the product to the customer.
 
-We experienced some trouble with the Activity diagram as we weren't sure how specific or brief we needed to be. Furthermore, we weren't sure whether to model the current system or the proposed system However we opted to make the activity diagrams succinct and easy to read without compromising the amount of information. We created two separate activity diagrams that detail the series of events that inbound calling customers and outbound called customers will go through on the proposed system.
+We experienced some trouble with the Activity diagram as we weren't sure how specific or brief we needed to be and whether to model the current system or the proposed system. However we opted to make the activity diagrams succinct and easy to read without compromising the amount of information. We created two separate activity diagrams that detail the series of events that inbound calling customers and outbound called customers will go through on the proposed system.
 
 <img src="Diagrams/ActivityDiagram.png" width = "100%">
 
-However after creating the diagrams, we planned a group discussion later in the week where further edits will be made to the activity diagram to help finalise it. With the edited activity diagrams, we added columns for the stakeholders, which better visualises the diagrams and showcases the differences between the two stakeholders. Furthermore, it conveys the flow of activities and the different actions that are completed throughout the process.
+However after creating the diagrams, we planned a group discussion later in the week where further edits will be made to the activity diagram to help finalise it. With the edited activity diagrams, we added columns for the stakeholders, which better visualises the diagrams and showcases the differences between the two stakeholders. 
 
 <img src="Diagrams/InboundActivityDiagram.png" width = "100%">
 
