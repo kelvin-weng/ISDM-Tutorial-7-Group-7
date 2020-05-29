@@ -130,20 +130,18 @@ This formed the basis of our design thinking methodology for the project. Follow
 
 
 ## Agile Methodology
-An appropriate system development methodology will need to be utilised to plan, structure and control the development of the new information system.
+An appropriate system development methodology will be utilised to plan, structure and control the development of the Call Management Centre.
 
-In agile methodology, various parts of the system are worked on concurrently, as opposed to the sequential order of activities in traditional waterfall methodology. Projects are developed in iterations and stages, with constant testing, review and feedback with stakeholders, providing continuous improvement with each iteration. Less emphasis is held on documentation, and instead there is a focus on communication, collaboration and adaptation. This efficiency and flexibility of agile development enables any changes, including requirements, to be implemented at any stage of development.
-
-This is represented as we assigned different roles to each group member to help us iteratively work on the project without needing a certain component finished from before. Every group member is given a diagram to create and model which showcases how the proposed system will improve and solve the issues that the current system poses.
-
+In agile methodology, various parts of the system are worked on concurrently, as opposed to the sequential order of activities in traditional waterfall methodology. Projects are developed in iterations and stages, with constant testing, review and feedback with stakeholders, providing continuous improvement with each iteration and a focus on communication, collaboration and adaptation. This enables any changes, including requirements, to be implemented at any stage of development.
 
 ### SCRUM
-A Scrum is an agile process that allows us to focus on delivering business value in shortest times. We utilised a Scrum process due to its efficiency in completing a project by working collaboratively as a group. This is demonstrated through the Scrum team model which is self-organising and cross-functional. We split ourselves as a group into teams to work on the models involving planning, designing, testing and documentation.
+Agile Methodology is a project management process that is primarily used by software developers involving self-organisation and collaboration across teams. It involves working on multiple tasks at once in smaller builds through iterations, testing and reviewing with stakeholders regularly throughout the project. 
 
-The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didn't have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project. This involved utilising the Sprint backlog as a basis to start the Scrum and ensuring that we assign tasks to specific members of the group and progression on the project. After that we would hold a weekly Scrum meeting every Friday to determine the outcome of our tasks and allow us to incrementally complete the project within the given deadline.
+The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didn't have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project. 
 
-We employed a variety of scrum artefacts including the product backlog, user stories and a sprint backlog. The product backlog is represented below which showcases an ordered list that needs to be completed in the project. It consists of user stories and their priorities. The Sprint backlog showcases our timeline of progression for the project and the various issues we encountered. It represents a plan for delivering the product increments and consists of work flow stages and individual work items. A Kanban board was utilised for this project which can be located on GitHub.
+As such, we employed a variety of scrum artefacts including the product backlog and a sprint backlog. The product backlog showcases a prioritised list of user stories and tasks for the project (see below). The Sprint backlog can be seen through our Kanban board in GitHub which showcases our progression and timeline of our tasks and the various issues we encountered throughout the project. 
 
+We would hold a weekly Scrum meeting every Friday to determine the outcome of our tasks and allow us to incrementally complete the project within the given deadline. We assigned different roles to each group member to help us iteratively work on the project without task dependency. For example, each team member was given a diagram to create and model based on the completed user stories, showcasing the improvements in the proposed system compared to the current system.
 
 **Product Backlog**
 
@@ -180,14 +178,15 @@ We employed a variety of scrum artefacts including the product backlog, user sto
 | T3.4  |  Subtask - Create collaboration diagrams  | Medium |
 | T4    | Competitive advantages and potential effects | Medium |
 | T5  |  Edit and finalise documentation  | Low |
-| T6  |  Upload final document | Low  |
-| T7  |  Start the video presentation | Medium  |
-| T8  |  Assign roles and begin recording | Low  |
-| T9  |  Upload the final video presentation | High  |
+| T6  |  Start the video presentation | Medium  |
+| T7  |  Assign roles and begin recording | Low  |
+| T8  |  Upload the final video presentation | High  |
+| T9  |  Upload final document | High  |
 
 
 ## Work-products and Models
 **User Stories**
+These are the user stories that we will focus on modelling:
 1. As an inbound calling customer, I want to be able to talk to someone on the phone that knows my intentions well, so that I can buy holiday packages
 2. As an outbound called customer, I want to talk to an RM that get straight to the point, so that it doesn't waste my time
 3. As a relationship manager, I want to view the details of a customer, so that I can understand who I am talking with
