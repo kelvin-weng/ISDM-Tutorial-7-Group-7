@@ -24,26 +24,27 @@
     * Possible effects of project failure
 
 ## Acknowledgements
-We would like to thank the travel company, for allowing us to create and present this report detailing a new proposed call management system.
+
+We want to thank the travel company, for allowing us to create and present this report detailing a new proposed call management system.
 
 ## Executive Summary
+
 This report examines the problems surrounding the operations of a call management centre and recommends methods of increasing its efficiency and effectiveness.
-
-The research showcases that the current system operation is complicated due to the number and nature of the holiday packages. Furthermore, wait times for customers are too long, tarnishing the relationship between the customer and relationship manager before the call begins. After the customer connects with a Relationship Manager, they don't have enough information about the customer, making the process and call rate slow and inefficient. These factors are the major causes to why the current system operation has problems.
-
-The travel company is aiming to circumvent these issues by developing a new information system that improves the overall operations of the call management system. This report concludes that it would be ideal to satisfy its existing customer base while also attracting new potential customers due to the efficient and effective new information system.
+The research showcases that the current system operation is complicated due to the number and nature of the holiday packages. Furthermore, wait times for customers are too long, tarnishing the relationship between the customer and relationship manager before the call begins. After the customer connects with a Relationship Manager, they don't have enough information about the customer, making the process and call rate slow and inefficient. These factors are significant causes of why the current system operation has problems.
+The travel company aims to circumvent these issues by developing a new information system that improves the overall operations of the call management system. This report concludes that it would satisfy its existing customers while also attracting new potential customers due to the efficient new information system.
 
 ## Project Objectives
+
 The goal of this project is to improve the in-house call management centre of a major travel company.
 
 ## Problem Definition
+
 We want our relationship managers to efficiently and effectively help customers purchase a travel package through our in-house call management centre.
-
-However, the current operational system makes it difficult for relationship managers to sell due to long wait times, and Relationship Manager's not understanding the customers intentions fast enough. If we ignore this problem, we could potentially lose customers to competing company's, lose revenue and damage our overall company reputation.
-
-To fix this issue, we will adopt a design thinking and scrum methodology to truly understand out customers and iteratively improve our operational system.
+However, the current system makes it difficult for relationship managers to sell due to long wait times, and Relationship Managers not understanding customers' intentions fast enough. If we ignore this problem, we could potentially lose customers to competing company's, lose revenue and damage our overall company reputation.
+To fix this issue, we will adopt a design thinking and scrum methodology to understand our customers truly and iteratively improve our operational system.
 
 ## Stakeholders
+
 1. Inbound calling customers
 
     Customers calling the travel company whom are looking to purchase a travel package
