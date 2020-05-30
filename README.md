@@ -194,17 +194,21 @@ The use case model was created by utilising the user stories. This use case mode
 Despite our initial confusion on creating use case models due to the many possibilities, we decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. We started by listing the title, actors and their associated use cases. This was the prototype model that we created. We would continue to iterate on this base diagram later by adding relationships.
 
 * Current System (Beginnning)
+
 <img src="Diagrams/CurrentSystemUseCase.png" width = "100%">
 
 * Proposed System (Beginning)
+
 <img src="Diagrams/ProposedSystemUseCase.png" width = "100%">
 
 * Version 2 Inbound & Outbound (Pre-Consultation)
+
 <img src="Diagrams/UseCaseDiagram V2.png" width = "100%">
 
 After some discussions with the tutor, we decided to use his feedback and create one  use case diagram containing both the current and proposed system. It was mentioned that use cases could be distinguished by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system in a single glance & will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combining the 2 models and adding relationships that showcase the differences made from the proposed system.
 
 * Use Case Diagram Final
+
 <img src="Diagrams/ProposedSystemUseCaseFinal.png" width = "100%">
 
 The end result was a singular more consise diagram which was coloured based on new and retaining use cases. New use cases were expressed in green whilst retaining use cases were displayed in blue. It was decided that unused use cases should not be shown in the diagram in order to minimised confusion. 
@@ -227,11 +231,17 @@ However after creating the diagrams, we planned a group discussion later in the 
 
 **Class Diagram**
 
-A class diagram showcases the system's classes, attributes, operations and relationships among objects. The listed class diagrams showcases the base system we wish to design. However, we experienced trouble as we were unsure whether we needed to be more specific with more classes and relationships. We decided to create a simple outline of the proposed system for the two major stakeholders being the inbound customer and outbound customer. It showcases the relationship that the customer and relationship manager will go through when interacting with the system. As represented in the diagrams, the proposed system has very little wait time and allows the customer to get what they want efficiently and effectively.
+A class diagram showcases the system's classes, attributes, operations and relationships among objects. The listed class diagrams showcases the base system we wish to design. However, we experienced trouble as we were unsure whether we needed to be more specific with more classes and relationships. We decided to create a simple outline of the proposed system for the two major stakeholders being the inbound customer and outbound customer. It showcases the relationship that the customer and relationship manager will go through when interacting with the system. 
 
 <img src="Diagrams/InboundClassDiagram.png" width = "100%">
 
 <img src="Diagrams/OutboundClassDiagram.png" width = "100%">
+
+* Class Diagram (Final)
+
+<img src="Diagrams/ClassDiagramFinal.png" width="100%">
+
+As represented in the diagram, the proposed system has very little wait time and allows the customer to get what they want efficiently and effectively. It has been colour coded to represent new Classes that have been proposed to automate processes for customers and Relationship Managers.
 
 **Collaboration Diagram**
 
