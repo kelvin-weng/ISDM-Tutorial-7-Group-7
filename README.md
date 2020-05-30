@@ -250,20 +250,20 @@ A collaboration diagram is used to showcase the relationships and interactions b
 ## Project Advantages & Failures
 **Competitive Advantage Gained**
 
-The new system will provide substantial efficiency improvements in handling both incoming and outgoing calls. Dynamic and intelligent matching of customers to an appropriate Relationship Manager (RM) based on their respective profiles ensures the RM has the right skills and knowledge to resolve customer enquiries within a timely manner. Successful matching will also prevent the need for the customer to be transferred around to various RMs, saving both time and resources.
+The new system will provide efficiency improvements in handling all calls. Dynamic and intelligent matching of customers to an appropriate Relationship Manager (RM) based on their respective profiles ensures the RM has the right skills to resolve customer enquiries within a timely manner. Successful matching will also prevent the need for the customer to be transferred around to various RMs, saving organisational resources.
 
-In addition, customer profile information allow RMs to provide more personalised, meaningful and accurate support through greater insights and deeper understanding regarding the needs and requirements of each customer.
+Also, customer profile information allows RMs to provide more personalised support through significant insights and a more in-depth understanding of each customer's requirements.
 
 These two competitive advantages combined result in increased customer satisfaction and employee wellbeing. Providing customer satisfaction achieves competitive advantage over competitors through obtaining customer loyalty, and the attraction of new customers through word of mouth.
 
-Finally, the new system is able to provide insights from collated profiles, interactions and data to form trends and patterns that will better enable the travel company to address customer needs, and align their business to cater for their requirements. For example, trends may reveal that a number of customers are enquiring about a particular travel destination that is not currently offered. Hence, the travel company has potential to gain competitive advantage by looking into offering the highly demanded destination.
+Finally, the new system can provide insights from collated profiles, interactions and data to form trends and patterns that will better enable the travel company to address customer needs, and align their business to cater for their requirements. For example, trends may reveal that many customers are enquiring about a particular travel destination that the company doesn't offer. Hence, the company has the potential to gain competitive advantage by looking into providing highly demanded destinations.
 
 **Possible Adverse Effects of Project Failure**
 
 Insufficient management, poorly defined project goals and objectives, and a combination of other factors can lead to project failure.
 
-The first implication would be financial losses. These include the loss in the direct expenses of developing the project, and investment loss, where the opportunity for increased cash flows, decreased expenses or higher turnover that the project were to deliver are lost.
+The first implication would be financial losses. These include the decline in the direct expenses of developing the project, and investment loss, where the opportunity for increased cash flows, decreased expenses or higher turnover that the project was to deliver are lost.
 
 Project failure would also leave a negative image on the reputation of the travel company or the contractor. This will have a direct negative impact on future business prospects, opportunities and market share from the loss of credibility and reputation from stakeholders, investors and business partners.
 
-Finally, failure in successfully delivering the project will leave the initial project requirements to be partially completed, or even completely unfulfilled. Projects are generally pursued with relation to business goals and objectives, and hence any failure will lead to adverse effects on the travel company, including financial consequences and delays in future business prospects. The initial problems such as long call wait times, low customer satisfaction and process inefficiencies would continue to exist, leading to organisational failure and allowing competitors to gain advantage. 
+Finally, failure in successfully delivering the project will leave the initial project requirements incomplete, or even unfulfilled. Projects are pursued with relation to business goals and objectives, and hence any failure will lead to adverse effects on the travel company, including financial consequences and delays in future business prospects. The initial problems such as long call wait times, low customer satisfaction and process inefficiencies would continue to exist, leading to organisational failure and allowing competitors to gain an advantage.
