@@ -246,6 +246,10 @@ As represented in the diagram, the proposed system has very little wait time and
 
 **Collaboration Diagram**
 
+<img src="Diagrams/ColabInbound.png" width = "100%">
+
+<img src="Diagrams/ColabOutbound.png" width = "100%">
+
 A collaboration diagram is used to showcase the relationships and interactions between objects in Unified Modelling Language (UML). It defines the role of each object.
 
 ## Project Advantages & Failures
