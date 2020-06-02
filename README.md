@@ -273,9 +273,11 @@ A collaboration diagram is used to showcase the relationships and interactions b
 ## Project Advantages & Failures Discussion
 **Competitive Advantage**
 
+Competitive advantage refers to unique features and offerings of a company that differentiate them from their competitors, and is perceived by the target market as significant and superior to their rivals.
+
 The new system will provide efficiency improvements in handling all calls. Dynamic and intelligent matching of customers to an appropriate Relationship Manager (RM) based on their respective profiles ensures the RM has the right skills to resolve customer enquiries within a timely manner. Successful matching will also prevent the need for the customer to be transferred around to various RMs, saving organisational resources.
 
-Also, customer profile information allows RMs to provide more personalised support through significant insights and a more in-depth understanding of each customer's requirements.
+Furthermore, customer profile information allows RMs to provide more personalised support through significant insights and a more in-depth understanding of each customer's requirements.
 
 These two competitive advantages combined result in increased customer satisfaction and employee wellbeing. Providing customer satisfaction achieves competitive advantage over competitors through obtaining customer loyalty, and the attraction of new customers through word of mouth.
 
@@ -283,7 +285,7 @@ Finally, the new system can provide insights from collated profiles, interaction
 
 **Possible Effects of Project Failure**
 
-Insufficient management, poorly defined project goals and objectives, and a combination of other factors can lead to project failure.
+A project is considered a failure when it does not deliver what was required or to expectations, and can be caused by insufficient management, poorly defined goals and objectives and various other factors.
 
 The first implication would be financial losses. These include the decline in the direct expenses of developing the project, and investment loss, where the opportunity for increased cash flows, decreased expenses or higher turnover that the project was to deliver are lost.
 
