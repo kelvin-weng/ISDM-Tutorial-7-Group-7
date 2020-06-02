@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. Acknowledgements
-2. Executive Summary
+2. Executive Summary + Presentation Link
 3. Project Objectives
 4. Problem Definition
 5. Stakeholders
@@ -33,6 +33,8 @@ We want to thank the travel company, for allowing us to create and present this 
 This report examines the problems surrounding the operations of a call management centre and recommends methods of increasing its efficiency and effectiveness.
 The research showcases that the current system operation is complicated due to the number and nature of the holiday packages. Furthermore, wait times for customers are too long, tarnishing the relationship between the customer and relationship manager before the call begins. After the customer connects with a Relationship Manager, they don't have enough information about the customer, making the process and call rate slow and inefficient. These factors are significant causes of why the current system operation has problems.
 The travel company aims to circumvent these issues by developing a new information system that improves the overall operations of the call management system. This report concludes that it would satisfy its existing customers while also attracting new potential customers due to the efficient new information system.
+
+View video presentation at: https://youtu.be/6cZo2_AM1fw
 
 ## Project Objectives
 
