@@ -7,21 +7,22 @@
 4. Problem Definition
 5. Stakeholders
 6. Design Thinking Principles Perspective
-    * Empathy maps
+    * Empathy Maps
     * POV Statements
     * Reflection
     * Assumptions
 7. Agile Methodology
     * Scrum
-    * Product backlog
+    * Product Backlog
 8. Work-Products and Models
     * User Stories
     * Use Case Model
     * Activity Diagram
     * Class Diagram
     * Collaboration Diagram
-9. Competitive Advantage
-    * Possible effects of project failure
+9. Project Advantages & Failures Discussion
+    * Competitive Advantage
+    * Possible Effects of Project Failure
 
 ## Acknowledgements
 
@@ -47,31 +48,31 @@ To fix this issue, we will adopt a design thinking and scrum methodology to unde
 
 1. Inbound calling customers
 
-    Customers calling the travel company whom are looking to purchase a travel package
+    Customers calling the travel company whom are looking to purchase a travel package.
 
 2. Outbound called customers
 
-    The travel company calling potential customers who may be interested in purchasing
+    The travel company calling potential customers who may be interested in purchasing.
 
 3. Relationship Manager
 
-    The employee who is interacting with the customer
+    The employee who is interacting with the customer.
 
 4. Travel Company
 
-    The company that operates the call management centre
+    The company that operates the call management centre.
 
 5. Call management centre
 
-    Part of the business that controls the calls with customers
+    Part of the business that controls the calls with customers.
 
-6. Competing travel company's
+6. Competing travel companies
 
-    Business's that are similar to the travel company that may attract their own customers.
+    Businesses that are similar to the travel company that may attract their own customers.
 
 7. Call centre manager
 
-    Supervisor who is in charge of running and operating the call management centre
+    Supervisor who is in charge of running and operating the call management centre.
 
 
 ## Design Thinking Principles Perspective
@@ -79,11 +80,14 @@ To fix this issue, we will adopt a design thinking and scrum methodology to unde
 * Inbound calling customer
 <img src="EmpathyMaps/CustomerEmpathyMap.png" width = "100%">
 
+
 * Outbound called customers
 <img src="EmpathyMaps/OutboundCalledCustomer.png" width = "100%">
 
+
 * Relationship Manager
 <img src="EmpathyMaps/RelationshipManagerEmpathyMap.png" width = "100%">
+
 
 * Travel Company
 <img src="EmpathyMaps/TravelCompanyEmpathyMap.png" width = "100%">
@@ -101,14 +105,14 @@ We started the project by assigning different roles to each group members to ens
 
 Despite the current situation surrounding the virus, we were able to progress with the project. We had a group discussion on the issues we would encounter and how we would overcome them for the project. This includes reduced face-to-face communication, unable to interview real actors, and gaining real-world data. We overcame this by utilising the internet, different social networking sites and making assumptions on the case study to understand the major stakeholders of the project and their situation.
 
-Our Design Thinking methodology started with a brainstorm of different stakeholders relating to the case study. We decided to use the customer, relationship manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. After further discussions with our tutor, we decided to split the customer into two, inbound called customer and outbound calling customers for our empathy maps as they posed more in-depth discussion and analysis.
+Our Design Thinking methodology started with a brainstorm of different stakeholders relating to the case study. We decided to use the customer, relationship manager and travel company for our empathy maps as they were the major stakeholders surrounding the case study. After further discussions with our tutor, we decided to split the customer into two, inbound called customer and outbound calling customers for our empathy maps, as they posed more in-depth discussion and analysis.
 
 With the POV statements, it was found that every stakeholder involved is affected by the current operation of the Call Management Centre. Assumptions were developed that it was more difficult for employees to do their job and drove customers to competing companies primarily due to the long wait times and misunderstanding between RM and customer.
 
 These POV statements allowed us to develop and shape the scope of "How Might We" questions relating to the project. This is relayed below:
 1. How might we improve the relationship between the customer and RM?
 2. How might we improve the customer's experience while they're calling?
-3. How might we speed up the call rate for RM's?
+3. How might we speed up the call rate for RMs?
 4. How might we increase the RM's performance and product knowledge?
 5. How might we recommend better purchase options for our customers?
 
@@ -116,18 +120,18 @@ These POV statements allowed us to develop and shape the scope of "How Might We"
 
 Current System
 
-* RM's are frustrated with the long wait times like the customers
-* RM's don't understand their customers well as they calls are being sent to RM's randomly
+* RMs are frustrated with the long wait times like the customers
+* RMs don't understand their customers well, as the calls are being sent to RMs randomly
 * The travel company doesn't have an online website for customers to find holiday and travel packages
-* RM's are not able to see their own profiles and progress
+* RMs are not able to see their own profiles and progress
 
 
 Proposed System
-* Customers create their customer profile by utilising the Profiler Tool on the Travel Companies Website prior to an Inbound Call
-* Inbound Customers who call without making a profile will be asked for details by the Relationship Manager in order to create a profile 
-* The new system wont slow down the call operations as customers with customer profiles will be prioritised over customers without one
+* Customers create their customer profile by utilising the Profiler Tool on the Travel Company's website prior to an Inbound Call
+* Inbound Customers who call without making a profile will be asked for details by the Relationship Manager in order to create a profile
+* The new system won't slow down the call operations, as customers with customer profiles will be prioritised over customers without one
 * The company is losing revenue and market share due to competitors, which is why they want to develop a new information system
-* Outbound called customers have not purchased packages with the Travel Company but have details in the system through Events/Profiles
+* Outbound called customers have not purchased packages with the Travel Company, but have details in the system through Events/Profiles
 * A booking can be associated to only one holiday package
 * A package is associated to only one Travel Company and only one Accomodation Company
 * Bookings are saved on the Customer Class but are made by the Relationship Manager on a call with the customer
@@ -142,11 +146,11 @@ An appropriate system development methodology will be utilised to plan, structur
 In agile methodology, various parts of the system are worked on concurrently, as opposed to the sequential order of activities in traditional waterfall methodology. Projects are developed in iterations and stages, with constant testing, review and feedback with stakeholders, providing continuous improvement with each iteration and a focus on communication, collaboration and adaptation. This enables any changes, including requirements, to be implemented at any stage of development.
 
 ### SCRUM
-Agile Methodology is a project management process that is primarily used by software developers involving self-organisation and collaboration across teams. It involves working on multiple tasks at once in smaller builds through iterations, testing and reviewing with stakeholders regularly throughout the project. 
+Agile Methodology is a project management process that is primarily used by software developers involving self-organisation and collaboration across teams. It involves working on multiple tasks at once in smaller builds through iterations, testing and reviewing with stakeholders regularly throughout the project.
 
-The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didn't have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project. 
+The Scrum events we used were the sprint retrospective and the scrum cycle. This is because these two events suited our timelines well as we didn't have enough time to meet daily due to other commitments. The Sprint Retrospective allowed us to look back at our backlog and timeline of commits to identify current issues and determine methods in further improving the project. The Scrum Cycle allowed us to incrementally work on the project and help us prioritise the most important methods needed to complete the project.
 
-As such, we employed a variety of scrum artefacts including the product backlog and a sprint backlog. The product backlog showcases a prioritised list of user stories and tasks for the project (see below). The Sprint backlog can be seen through our Kanban board in GitHub which showcases our progression and timeline of our tasks and the various issues we encountered throughout the project. 
+As such, we employed a variety of scrum artefacts including the product backlog and a sprint backlog. The product backlog showcases a prioritised list of user stories and tasks for the project (see below). The Sprint backlog can be seen through our Kanban board in GitHub which showcases our progression and timeline of our tasks and the various issues we encountered throughout the project.
 
 We would hold a weekly Scrum meeting every Friday to determine the outcome of our tasks and allow us to incrementally complete the project within the given deadline. We assigned different roles to each group member to help us iteratively work on the project without task dependency. For example, each team member was given a diagram to create and model based on the completed user stories, showcasing the improvements in the proposed system compared to the current system.
 
@@ -166,7 +170,7 @@ We would hold a weekly Scrum meeting every Friday to determine the outcome of ou
 | US10  | As a travel company, I want to develop a system so that I can improve the call management centre  |   High  |
 | US11  | As a travel company, I want to improve the call flow rate, so that I can make more sales  |    High  |
 | US12  | As a travel company, I want to be able to create profiles based on my relationship managers and customers so that I can match my relationship managers with customers to increase sales  |    Medium  |
-| US13  | As a travel company, I want to be able score a call from 1-10 so that we can find which customers are most likely to buy from us.  |    Medium  |
+| US13  | As a travel company, I want to be able score a call from 1-10 so that we can find which customers are most likely to buy from us  |    Medium  |
 | US14  | As a travel company, I want to ensure customers with a high score are prioritised, so that they can buy holiday packages from us  |    Medium  |
 | US15  | As a travel company, I want customers to be directed to an interactive voice response unit so that it can answer any questions if a relationship manager is not available  | Low  |
 | US16  | As a call management centre, I want the system to use AI machine learning, so that it can automatically assign customers to a suitable relationship manager  | Low  |
@@ -205,17 +209,20 @@ The use case model was created by utilising the user stories. This use case mode
 
 Despite our initial confusion on creating use case models due to the many possibilities, we decided to create two use case models showcasing the current call management system and another one for the proposed system that is going to be developed. We started by listing the title, actors and their associated use cases. This was the prototype model that we created. We would continue to iterate on this base diagram later by adding relationships.
 
-* Current System (Beginnning)
+* Current System (Beginning)
 
 <img src="Diagrams/CurrentSystemUseCase.png" width = "100%">
+
 
 * Proposed System (Beginning)
 
 <img src="Diagrams/ProposedSystemUseCase.png" width = "100%">
 
+
 * Version 2 Inbound & Outbound (Pre-Consultation)
 
 <img src="Diagrams/UseCaseDiagram V2.png" width = "100%">
+
 
 After some discussions with the tutor, we decided to use his feedback and create one  use case diagram containing both the current and proposed system. It was mentioned that use cases could be distinguished by colour coding the proposed system. This will give a better comparison and view on how the proposed system will help the call management system in a single glance & will clearly showcase the improvements that the proposed system will make. This means we needed to reconfigure the entire use case model by combining the 2 models and adding relationships that showcase the differences made from the proposed system.
 
@@ -223,7 +230,7 @@ After some discussions with the tutor, we decided to use his feedback and create
 
 <img src="Diagrams/ProposedSystemUseCaseFinal.png" width = "100%">
 
-The end result was a singular more consise diagram which was coloured based on new and retaining use cases. New use cases were expressed in green whilst retaining use cases were displayed in blue. It was decided that unused use cases should not be shown in the diagram in order to minimised confusion. 
+The end result was a singular more consise diagram which was coloured based on new and retaining use cases. New use cases were expressed in green whilst retaining use cases were displayed in blue. It was decided that unused use cases should not be shown in the diagram in order to minimised confusion.
 
 Some insights that could be deduced from visualising the Use Case Diagram in this way was which stakeholders were impacted by the proposed changes. From the colour distribution we can conclude that Relationship Managers have more changes implemented while the customer journey is relatively untouched.
 
@@ -235,7 +242,7 @@ We experienced some trouble with the Activity diagram as we weren't sure how spe
 
 <img src="Diagrams/ActivityDiagram.png" width = "100%">
 
-However after creating the diagrams, we planned a group discussion later in the week where further edits will be made to the activity diagram to help finalise it. With the edited activity diagrams, we added columns for the stakeholders, which better visualises the diagrams and showcases the differences between the two stakeholders. 
+However after creating the diagrams, we planned a group discussion later in the week where further edits will be made to the activity diagram to help finalise it. With the edited activity diagrams, we added columns for the stakeholders, which better visualises the diagrams and showcases the differences between the two stakeholders.
 
 <img src="Diagrams/InboundActivityDiagram.png" width = "100%">
 
@@ -243,7 +250,7 @@ However after creating the diagrams, we planned a group discussion later in the 
 
 **Class Diagram**
 
-A class diagram showcases the system's classes, attributes, operations and relationships among objects. The listed class diagrams showcases the base system we wish to design. However, we experienced trouble as we were unsure whether we needed to be more specific with more classes and relationships. We decided to create a simple outline of the proposed system for the two major stakeholders being the inbound customer and outbound customer. It showcases the relationship that the customer and relationship manager will go through when interacting with the system. 
+A class diagram showcases the system's classes, attributes, operations and relationships among objects. The listed class diagrams showcases the base system we wish to design. However, we experienced trouble as we were unsure whether we needed to be more specific with more classes and relationships. We decided to create a simple outline of the proposed system for the two major stakeholders being the inbound customer and outbound customer. It showcases the relationship that the customer and relationship manager will go through when interacting with the system.
 
 <img src="Diagrams/InboundClassDiagram.png" width = "100%">
 
@@ -263,8 +270,8 @@ As represented in the diagram, the proposed system has very little wait time and
 
 A collaboration diagram is used to showcase the relationships and interactions between objects in Unified Modelling Language (UML). It defines the role of each object.
 
-## Project Advantages & Failures
-**Competitive Advantage Gained**
+## Project Advantages & Failures Discussion
+**Competitive Advantage**
 
 The new system will provide efficiency improvements in handling all calls. Dynamic and intelligent matching of customers to an appropriate Relationship Manager (RM) based on their respective profiles ensures the RM has the right skills to resolve customer enquiries within a timely manner. Successful matching will also prevent the need for the customer to be transferred around to various RMs, saving organisational resources.
 
@@ -274,7 +281,7 @@ These two competitive advantages combined result in increased customer satisfact
 
 Finally, the new system can provide insights from collated profiles, interactions and data to form trends and patterns that will better enable the travel company to address customer needs, and align their business to cater for their requirements. For example, trends may reveal that many customers are enquiring about a particular travel destination that the company doesn't offer. Hence, the company has the potential to gain competitive advantage by looking into providing highly demanded destinations.
 
-**Possible Adverse Effects of Project Failure**
+**Possible Effects of Project Failure**
 
 Insufficient management, poorly defined project goals and objectives, and a combination of other factors can lead to project failure.
 
